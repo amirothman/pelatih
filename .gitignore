@@ -1,5 +1,5 @@
 # Ignore results
-/results/*
+/results/*.log
 
 # Ignore korpus
-/korpus/*
+/korpus/*.txt
