@@ -1,3 +1,5 @@
+mode = ARGV[0]
+
 #Dekat sini, kita nak bina satu perpustakaan nama dia @bibliothek
 
 bibliothek = Array.new
@@ -32,16 +34,11 @@ korpus.flatten.each do |a|
 
   if a.split.size > 2 && a.split.size < 8
 
-  a.split(/\s+/).each do |lk|
-  	if lk.size == 1
-        keep = false
-    elsif lk.match(/[^\w]/)
-    	keep = false
+    a.split(/\s+/).each do |lk|
+      unless lk.size == 1 || lk.match(/[^\w]/)
+        ayat_ayat_pendek << a
+      end
     end
-  end
-  	if keep
-  	  ayat_ayat_pendek << a
-  	end
   end
 end
 
