@@ -1,0 +1,5 @@
+# Ignore results
+/results/*
+
+# Ignore korpus
+/korpus/*
