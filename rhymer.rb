@@ -42,13 +42,15 @@ def corak kata
 end
 
 def corakhujung kata
-  if hujungvokal kata
-  	s_2 = kata.slice!(-hujungvokal(kata)..-1)
-  	s_1 = kata.slice!(-hujungkonsonan(kata)..-1)
-  elsif hujungkonsonan kata
-  	s_3 = kata.slice!(-hujungkonsonan(kata)..-1)
-  	s_2 = kata.slice!(-hujungvokal(kata)..-1)
-  	s_1 = kata.slice!(-hujungkonsonan(kata)..-1)
+  unless kata.size < 3
+    if hujungvokal kata
+    	s_2 = kata.slice!(-hujungvokal(kata)..-1)
+    	s_1 = kata.slice!(-hujungkonsonan(kata)..-1)
+    elsif hujungkonsonan kata
+    	s_3 = kata.slice!(-hujungkonsonan(kata)..-1)
+    	s_2 = kata.slice!(-hujungvokal(kata)..-1)
+    	s_1 = kata.slice!(-hujungkonsonan(kata)..-1)
+    end
+    corak = s_1.to_s + s_2.to_s + s_3.to_s
   end
-  corak = s_1 + s_2 + s_3.to_s
 end

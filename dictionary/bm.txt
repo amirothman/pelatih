@@ -12,7 +12,6 @@ belanja
 aba
 senaman
 satu
-
 wit
 kerusinya
 daba
@@ -2177,7 +2176,6 @@ ketunggalan
 ahai
 perhatian
 saudari
-
 ahem
 ahm
 ahi
@@ -2899,7 +2897,6 @@ syor
 pengajuan
 mengajukan
 tepat
-
 aju
 ajuk
 mengajuk
@@ -3035,7 +3032,6 @@ terakalkan
 difikirkan
 akal
 diliputi
-
 pada
 untuk
 daku
@@ -3088,7 +3084,6 @@ keturunan
 filipina
 kata
 kata
-
 banir
 bakau
 gantung
@@ -3909,7 +3904,6 @@ tebat
 kesal
 memujuk
 menggesa
-
 alahai
 terkilan
 emak
@@ -4350,8 +4344,6 @@ alergenik
 alfa
 alfu
 yunani
-
-
 alfabet
 alfabt
 alfabetologi
@@ -4802,8 +4794,6 @@ silang
 berbunga
 alograf
 grafem
-
-
 aloi
 gangsa
 loyang
@@ -7124,7 +7114,6 @@ disahkan
 dilantik
 pilihan
 usman
-
 generasi
 selengkap
 selengkap
@@ -8416,7 +8405,6 @@ aposisi
 mendahuluinya
 fadzli
 kawannya
-
 apotek
 apotk
 apoteker
@@ -10594,7 +10582,6 @@ sisik
 tenggiling
 azimut
 disukat
-
 aziz
 terhormat
 rumi
@@ -15323,7 +15310,6 @@ mengusir
 pelengkap
 belasan
 berbelasan
-
 suratnya
 disebutnya
 kesebelasan
@@ -17177,7 +17163,6 @@ berengut
 berunsai
 beruntus
 berup
-
 mengecat
 dawai
 mewarnakan
@@ -17375,8 +17360,6 @@ pingpong
 kriket
 bta
 berbeta
-
-
 betagur
 mentangur
 pelawan
@@ -17680,7 +17663,6 @@ menggelincir
 naina
 ishak
 hai
-
 biawas
 psidium
 guajava
@@ -20127,7 +20109,6 @@ channa
 lucius
 menghilang
 lonjong
-
 persegi
 melebar
 sirih
@@ -20143,7 +20124,6 @@ dialang
 buk
 lebuk
 buka
-
 m
 berbuka
 masuknya
@@ -20583,7 +20563,6 @@ harum
 jambu
 melati
 waja
-
 perlu
 disifatkan
 kembang
@@ -21674,7 +21653,6 @@ cisticola
 juncidis
 malaya
 caka
-
 mencakah
 terkangkang
 melebarkan
@@ -22074,7 +22052,6 @@ aquilaria
 hirta
 wikstroemia
 candolleana
-
 kecindan
 candang
 candat
@@ -22544,7 +22521,6 @@ carter
 cartis
 cartisme
 caruh
-
 caruk
 mencaruk
 bercaruk
@@ -27170,7 +27146,6 @@ sepertiga
 rendahnya
 taraf
 satuan
-
 angka
 centigrade
 c
@@ -28018,7 +27993,6 @@ dlman
 delta
 dlta
 trinidad
-
 deltiologi
 dltiologi
 poskad
@@ -30644,7 +30618,6 @@ berdusun
 pedusunan
 utusan
 utusan
-
 penggalakan
 duta
 diplomatiknya
@@ -30733,7 +30706,6 @@ dwitahunan
 dwitunggal
 dwiwarna
 dy
-
 sana
 licin
 telanjang
@@ -30838,7 +30810,6 @@ penerbitnya
 edp
 electronic
 ee
-
 eeh
 h
 sikit
@@ -32278,8 +32249,6 @@ research
 division
 epsilon
 psilon
-
-
 epsom
 psom
 hidrat
@@ -32486,8 +32455,6 @@ strus
 ovum
 eta
 ta
-
-
 etak
 tak
 gayam
@@ -32950,8 +32917,6 @@ fudalistik
 feudal
 fi
 fai
-
-
 fibril
 otot
 fibrin
@@ -33936,8 +33901,6 @@ digam
 mengegamkan
 memperekatkan
 gama
-
-
 sangka
 ragu
 menyambal
@@ -42034,7 +41997,6 @@ infrasonik
 inframerah
 inframrah
 nm
-
 prasarana
 infusi
 inga
@@ -42483,8 +42445,6 @@ ionosfera
 ionosfra
 pemantulan
 iota
-
-
 lamai
 pupu
 beripar
@@ -43934,7 +43894,6 @@ jayng
 jaz
 negro
 jazam
-
 menjazamkan
 memenggal
 menentukan
@@ -45625,7 +45584,6 @@ jurah
 juragan
 menjurah
 lajur
-
 haeckel
 jemarai
 jemarai
@@ -46420,7 +46378,6 @@ kalerek
 kalrk
 belas
 bilangan
-
 sifir
 latihannya
 sungguhpun
@@ -46718,7 +46675,6 @@ sekepet
 teki
 kyllinga
 bervifolia
-
 kancut
 kanda
 kakanda
@@ -46916,8 +46872,6 @@ terkapa
 kebingungan
 lahuma
 jeha
-
-
 kapah
 terkapah
 kapai
@@ -47404,7 +47358,6 @@ perkasihan
 kaucerca
 melihatnya
 tengoklah
-
 tolonglah
 lah
 kasihankan
@@ -48042,7 +47995,6 @@ kecamuk
 merajalela
 kekecamukan
 kecandan
-
 ecindan
 kecap
 cicak
@@ -48266,7 +48218,6 @@ kedaian
 berkedai
 perkedaian
 kedak
-
 intang
 kedal
 bertelau
@@ -49702,7 +49653,6 @@ kekeluhan
 mengeluh
 pengeluh
 kelui
-
 eloi
 keluih
 kulur
@@ -50783,7 +50733,6 @@ tebal
 ngepul
 mengepulkan
 rokoknya
-
 amomum
 kepulesan
 lena
@@ -51574,7 +51523,6 @@ kernai
 mengernai
 kerenam
 kernap
-
 padi
 kernet
 kernt
@@ -52548,8 +52496,6 @@ berkhemah
 berkhemah
 khemah
 khi
-
-
 khianat
 negaramu
 sabda
@@ -53014,7 +52960,6 @@ terduga
 terkirakan
 tergambarkan
 perhitungan
-
 penaksiran
 samaun
 kirah
@@ -54632,7 +54577,6 @@ kriobiologi
 kriogen
 kriogenik
 kriognik
-
 kriolit
 kriologi
 krioskopi
@@ -55676,8 +55620,6 @@ timonius
 pendicularis
 mengurau
 kurawal
-
-
 kurbal
 kurcaci
 kurenah
@@ -56506,8 +56448,6 @@ menyembahkan
 pelambat
 lambau
 lambda
-
-
 lambertit
 lambing
 cokoh
@@ -59390,7 +59330,6 @@ meligat
 kebaratan
 memperligat
 ligatur
-
 ligih
 meligih
 lignin
@@ -60796,7 +60735,6 @@ meluncurkan
 melongsorkan
 terluncur
 meluncur
-
 peluncuran
 meluncurkan
 peluncur
@@ -64044,8 +63982,6 @@ mtc
 teachers
 college
 mtuc
-
-
 mua
 memuakan
 memanjakan
@@ -65677,7 +65613,6 @@ np
 nr
 nri
 nu
-
 nahdatul
 nuang
 nuansa
@@ -66190,8 +66125,6 @@ ombor
 ombudsman
 omega
 omga
-
-
 oml
 semangku
 menggusari
@@ -66199,8 +66132,6 @@ mengomelkan
 sungutan
 omfalitis
 omikron
-
-
 bicara
 kecek
 mengomongkan
@@ -67741,7 +67672,6 @@ parafrasa
 paragog
 pulp
 terkedalam
-
 memperparah
 keparahan
 paraji
@@ -69699,7 +69629,6 @@ perkusi
 perkutut
 geoplia
 perlah
-
 memperlambat
 dipandunya
 perlahankan
@@ -70209,8 +70138,6 @@ phd
 doctor
 philosophy
 taruhannya
-
-
 piadah
 memiagamkan
 piah
@@ -71560,8 +71487,6 @@ psudonim
 pseudosiesis
 psudosisis
 sai
-
-
 psikedelik
 psikdlik
 psikik
@@ -71912,7 +71837,6 @@ punb
 sebai
 tergantung
 usuluddin
-
 berpunca
 bersumber
 memuncakkan
@@ -72153,7 +72077,6 @@ memusatkan
 puser
 usahakan
 sintir
-
 alamnya
 pusar
 mengakap
@@ -75465,8 +75388,6 @@ rms
 rn
 ribonucleic
 ribonukleik
-
-
 roba
 pancaroba
 robah
@@ -77797,7 +77718,6 @@ ditawarkan
 secang
 secrk
 secina
-
 adah
 sedak
 sedak
@@ -81237,7 +81157,6 @@ terkhabarkan
 sifatekun
 sifatullah
 dipergandakan
-
 sifon
 bertiub
 lalunya
@@ -81263,8 +81182,6 @@ menyigi
 disiginya
 ketiduran
 sigma
-
-
 signal
 signifikan
 microdesmis
@@ -81346,7 +81263,6 @@ t
 bersiku
 sikunya
 menyiku
-
 menyikukan
 penyiku
 striga
@@ -83748,7 +83664,6 @@ pensyair
 penyair
 kepenyairan
 syairi
-
 setan
 syajar
 syajarat
@@ -84215,7 +84130,6 @@ rothmans
 tajaan
 penajaan
 menaja
-
 dipersetujui
 dipersetujui
 penajajaminan
@@ -84905,12 +84819,8 @@ jantungnya
 tancapan
 tusukan
 gejala
-
 dibahagi
 berbukti
-
-
-
 didaftar
 desimal
 kutandai
@@ -85601,8 +85511,6 @@ tatu
 bertatu
 bercacah
 tahanensis
-
-
 mengulanginya
 nasuha
 jera
@@ -87651,8 +87559,6 @@ tstis
 tstostron
 teta
 tta
-
-
 tetabas
 tetabu
 tetaguk
@@ -88793,7 +88699,6 @@ transito
 transit
 transkrip
 poko
-
 transliterasi
 mentransliterasikan
 transmigran
@@ -89227,7 +89132,6 @@ menyurat
 melukis
 menulisi
 menyuratkan
-
 bertrand
 russell
 suratan
@@ -90612,7 +90516,6 @@ pasok
 upp
 upsi
 upsilon
-
 upsr
 urah
 mengurah
@@ -91553,8 +91456,6 @@ xrosis
 xerostomia
 xrostomia
 xi
-
-
 xilena
 xilna
 xilofaj
@@ -91719,8 +91620,6 @@ fotokopi
 menzeroks
 zeta
 zta
-
-
 ziadah
 kalibata
 bondanya

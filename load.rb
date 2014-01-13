@@ -8,14 +8,13 @@ Dir.foreach("korpus") do |l|
    bibliothek << l if l.match(/\.txt$/)
 end
 
-#Untuk bina himpunan ayat2, kita bagi dia nama @korpus
+#Untuk bina himpunan ayat2, kita bagi dia nama korpus
 
 korpus = Array.new
 
 bibliothek.each do |b|
   korpus = korpus + IO.binread("korpus/"+b).gsub(/\n/," ").split(/\./)
 end
-
 
 #Bina himpunan ayat-ayat pendek
 
@@ -24,7 +23,8 @@ end
 korpus.flatten.each do |a|
 
   #Dekat sini Ruby ada masalah dengan encoding so terpaksa buat mcm ni. rasanya ruby 2.1 dah solve masalah ni
-  a.gsub!(/[\.\,\~\+\\\/\(\)\-\*\"\'\=\%\&\!\]\[\:\;\>\<0-9]+/," ")
+  a.gsub!(/[\.\,\_\~\+\\\/\(\)\-\*\"\'\=\%\&\!\]\[\:\;\>\<0-9]+/," ")
+  a.gsub!(/[^\w]/," ")
   a.gsub!(/^\s+/,"")
   a.gsub!(/\s+/," ")
   
@@ -38,4 +38,12 @@ korpus.flatten.each do |a|
       end
     end
   end
+end
+
+#Bina list perkataan dari kamus
+
+@kamus = Array.new
+
+IO.binread('dictionary/bm.txt').split(/\n/).uniq.each do |k|
+  @kamus << k
 end
