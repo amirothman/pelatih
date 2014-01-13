@@ -1,4 +1,5 @@
 load "./load.rb"
+load "./rhymer.rb"
 
 mode = ARGV[0]
 
