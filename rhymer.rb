@@ -2,7 +2,7 @@
 @konsonan = %w(b c d e f g h j k l m n p q r s t v x y z)
 @konsonan_2 = %w(ng ny sy sh)
 @vokal = %w(a e i o u)
-@vokal_2 = %w(ai ao au ia iu ie ei ui ua ue uo oi oa ou)
+@vokal_2 = %w(aa ai ao au ae ia iu ie ei ui ua ue uo oi oa ou oo ee ii )
 
 def hujungvokal kata
   hujung = 1 if @vokal.include? kata[-1]
@@ -44,12 +44,12 @@ end
 def corakhujung kata
   unless kata.size < 3
     if hujungvokal kata
-    	s_2 = kata.slice!(-hujungvokal(kata)..-1)
-    	s_1 = kata.slice!(-hujungkonsonan(kata)..-1)
+    	s_2 = kata.slice!(-hujungvokal(kata).to_i..-1)
+    	s_1 = kata.slice!(-hujungkonsonan(kata).to_i..-1)
     elsif hujungkonsonan kata
-    	s_3 = kata.slice!(-hujungkonsonan(kata)..-1)
-    	s_2 = kata.slice!(-hujungvokal(kata)..-1)
-    	s_1 = kata.slice!(-hujungkonsonan(kata)..-1)
+    	s_3 = kata.slice!(-hujungkonsonan(kata).to_i..-1)
+    	s_2 = kata.slice!(-hujungvokal(kata).to_i..-1)
+    	s_1 = kata.slice!(-hujungkonsonan(kata).to_i..-1)
     end
     corak = s_1.to_s + s_2.to_s + s_3.to_s
   end
