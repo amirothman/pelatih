@@ -6,9 +6,9 @@ mode = ARGV[0]
 @ayat_ayat_pendek.uniq.shuffle.each do |w|
   puts w
   
-  puts corakhujung(w.split(' ')[-1])
+  #puts corakhujung(w.split(' ')[-1])
   
   
   #kalau nak enter baru keluar ayat baru
-  gets.chomp
+  gets.chomp if mode == 1
 end
