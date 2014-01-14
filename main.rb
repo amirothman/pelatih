@@ -10,5 +10,5 @@ mode = ARGV[0]
   
   
   #kalau nak enter baru keluar ayat baru
-  gets.chomp if mode == 1
+  gets.chomp unless mode == 1
 end
